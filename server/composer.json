@@ -1,0 +1,14 @@
+{
+    "name": "padi/server",
+    "description": "v1.0.0",
+    "authors": [
+        {
+            "name": "Fachrizal Rifahdi",
+            "email": "fachrizalrifahdi@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.2",
+        "slim/psr7": "^0.5.0"
+    }
+}
